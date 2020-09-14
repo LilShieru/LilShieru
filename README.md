@@ -30,3 +30,10 @@ Currently, I am using these social networks:
 * Twitter: [@reallynotciel](https://www.twitter.com/reallynotciel)
 * Instagram: [@reallynotciel](https://www.instagram.com/reallynotciel)
 * YouTube: [LilShieru](https://www.twitter.com/c/yutorimegami)
+
+### Special thanks for these amazing people that help me with coding!
+* ndbiaw#5130 (HentaiVN.net BOT Owner) ([GitHub](https://www.github.com/ndbiaw))
+* BlueSnow#7328 (Richter BOT Owner) ([GitHub](https://www.github.com/BrianLiterachu))
+* [Dark, the owner of the HentaiVN.net Website](https://hentaivn.net/user-4)
+
+and so on...
