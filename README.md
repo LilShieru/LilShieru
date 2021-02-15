@@ -20,7 +20,7 @@ Check my source code in the app's repository both for [Windows](https://github.c
 ### Why my code is so messy?
 I have began to learn coding since 2016 but I am still a beginner in coding and my code is still so messy, so please sympathize for me >_<
 
-If you want to fix my code, you can inbox the code to me and I will fix it.
+If you want to fix my code, you can send me a pull request and I will check it.
 
 ### What is your social accounts, by the way?
 Currently, I am using these social networks:
