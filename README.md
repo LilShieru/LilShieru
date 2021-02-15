@@ -22,7 +22,7 @@ I have began to learn coding since 2016 but I am still a beginner in coding and 
 
 If you want to fix my code, you can send me a pull request and I will check it.
 
-### What is your social accounts, by the way?
+### What are your social accounts, by the way?
 Currently, I am using these social networks:
 
 * Discord: Nico Levianth#6958 (which I am using the most)
