@@ -25,7 +25,7 @@ If you want to fix my code, you can send me a pull request and I will check it.
 ### What are your social accounts, by the way?
 Currently, I am using these social networks:
 
-* Discord: Mache#3373 (which I am using the most)
+* Discord: Nico Levianth#5133 (which I am using the most)
 * Facebook: [Trà Phương Nam](https://www.facebook.com/Yonaka12)
 * Twitter: [@reallynotciel](https://www.twitter.com/reallynotciel) (currently inactive)
 * Instagram: [@reallynotciel](https://www.instagram.com/reallynotciel)
