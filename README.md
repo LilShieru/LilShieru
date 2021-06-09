@@ -7,7 +7,7 @@ I am LilShieru a.k.a Nico Levianth, whose real name is T.P.N, and I am a program
 I am a 16-year-old Vietnamese guy, so my English is not good, sorry about that.
 
 ### What am I doing right now?
-I am coding a Discord BOT called "Uyn" (Uyn#6456), which is [currently open-source on GitHub](https://www.github.com/LilShieru/Uyn). This is a BOT that's currently in development so it still lacks many features, and I will add it more later.
+I am coding a Discord BOT called "Uyn" (Uyn#9871), which is [currently open-source on GitHub](https://www.github.com/LilShieru/Uyn). This is a BOT that's currently in development so it still lacks many features, and I will add it more later.
 
 ### What language I am coding?
 I mainly code my apps in C#, PHP and JavaScript, but I am currently learning to code C and C++, and I wish I could code my apps in these languages in the future :3
@@ -25,8 +25,8 @@ If you want to fix my code, you can send me a pull request and I will check it.
 ### What are your social accounts, by the way?
 Currently, I am using these social networks:
 
-* Discord: Meir#4532 (which I am using the most)
+* Discord: Meir#0011 (which I am using the most)
 * Facebook: [Trà Phương Nam](https://www.facebook.com/Yonaka12)
-* Twitter: [@reallynotciel](https://www.twitter.com/reallynotciel) (currently inactive)
+* Twitter: [@reallynotciel](https://www.twitter.com/reallynotciel)
 * Instagram: [@reallynotciel](https://www.instagram.com/reallynotciel)
 * YouTube: [LilShieru](https://www.twitter.com/c/yutorimegami)
